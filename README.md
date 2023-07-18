@@ -1,4 +1,4 @@
-# Лендинг ресторанра hungry people
+# Лендинг ресторана hungry people
 
 ## [Демо: hungry people](https://kulich1708.github.io/restaurant-hungry-people/files)
 
